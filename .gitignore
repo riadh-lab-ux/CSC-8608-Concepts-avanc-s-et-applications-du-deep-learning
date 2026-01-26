@@ -1,0 +1,12 @@
+# Environnements Python / Conda / venv
+.venv/
+venv/
+env/
+conda-env/
+miniforge3/
+mambaforge/
+anaconda3/
+miniconda3/
+
+# Checkpoints SAM (gros fichiers .pth)
+TP1/models/
