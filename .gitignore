@@ -8,5 +8,6 @@ mambaforge/
 anaconda3/
 miniconda3/
 
+TP2/__pycache__/
 # Checkpoints SAM (gros fichiers .pth)
 TP1/models/
