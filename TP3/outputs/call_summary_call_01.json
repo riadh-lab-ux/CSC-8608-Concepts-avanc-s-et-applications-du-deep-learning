@@ -1,0 +1,62 @@
+{
+  "audio_path": "TP3/data/call_01.wav",
+  "model_id": "openai/whisper-tiny",
+  "device": "cuda",
+  "audio_duration_s": 51.408,
+  "elapsed_s": 3.452604055404663,
+  "rtf": 0.06716083207681028,
+  "pii_stats": {
+    "emails": 2,
+    "phones": 0,
+    "orders": 0
+  },
+  "intent_scores": {
+    "refund_or_replacement": 2,
+    "delivery_issue": 4,
+    "general_support": 7
+  },
+  "intent": "general_support",
+  "top_terms": [
+    [
+      "thank",
+      3
+    ],
+    [
+      "bye",
+      3
+    ],
+    [
+      "calling",
+      2
+    ],
+    [
+      "order",
+      2
+    ],
+    [
+      "redacted",
+      2
+    ],
+    [
+      "email",
+      2
+    ],
+    [
+      "number",
+      2
+    ],
+    [
+      "hello",
+      1
+    ],
+    [
+      "customer",
+      1
+    ],
+    [
+      "support",
+      1
+    ]
+  ],
+  "redacted_text": "hello.thank you 4 calling customer support.my name is alex.and i will help you today.i am calling about an order.but [REDACTED_EMAIL] package was delivered this day.thank you 4 watching! i would like a refund.or a replacement as soon as possible.4 order number is.a.ex? 1.bye.3.5.you can reach [REDACTED_EMAIL], my phone number is 5.bye.bye.0-1.9, 9.thank you."
+}

@@ -1,0 +1,185 @@
+{
+  "audio_path": "TP3/data/call_01.wav",
+  "model_id": "openai/whisper-tiny",
+  "device": "cuda",
+  "audio_duration_s": 51.408,
+  "elapsed_s": 3.452604055404663,
+  "rtf": 0.06716083207681028,
+  "segments": [
+    {
+      "segment_id": 0,
+      "start_s": 1.186,
+      "end_s": 1.726,
+      "text": "Hello."
+    },
+    {
+      "segment_id": 1,
+      "start_s": 2.37,
+      "end_s": 4.734,
+      "text": "Thank you for calling customer support."
+    },
+    {
+      "segment_id": 2,
+      "start_s": 5.474,
+      "end_s": 6.878,
+      "text": "My name is Alex."
+    },
+    {
+      "segment_id": 3,
+      "start_s": 7.362,
+      "end_s": 9.182,
+      "text": "and I will help you today."
+    },
+    {
+      "segment_id": 4,
+      "start_s": 10.178,
+      "end_s": 12.062,
+      "text": "I am calling about an order."
+    },
+    {
+      "segment_id": 5,
+      "start_s": 12.354,
+      "end_s": 13.694,
+      "text": "but arrive at Damage."
+    },
+    {
+      "segment_id": 6,
+      "start_s": 14.69,
+      "end_s": 17.278,
+      "text": "The package was delivered this day."
+    },
+    {
+      "segment_id": 7,
+      "start_s": 17.73,
+      "end_s": 19.742,
+      "text": "Thank you for watching!"
+    },
+    {
+      "segment_id": 8,
+      "start_s": 20.642,
+      "end_s": 22.174,
+      "text": "I would like a refund."
+    },
+    {
+      "segment_id": 9,
+      "start_s": 22.402,
+      "end_s": 25.022,
+      "text": "or a replacement as soon as possible."
+    },
+    {
+      "segment_id": 10,
+      "start_s": 25.826,
+      "end_s": 27.358,
+      "text": "for order number is."
+    },
+    {
+      "segment_id": 11,
+      "start_s": 27.65,
+      "end_s": 28.126,
+      "text": "A."
+    },
+    {
+      "segment_id": 12,
+      "start_s": 28.45,
+      "end_s": 28.99,
+      "text": "EX?"
+    },
+    {
+      "segment_id": 13,
+      "start_s": 29.09,
+      "end_s": 29.662,
+      "text": "One."
+    },
+    {
+      "segment_id": 14,
+      "start_s": 30.018,
+      "end_s": 30.622,
+      "text": "Bye."
+    },
+    {
+      "segment_id": 15,
+      "start_s": 30.882,
+      "end_s": 31.39,
+      "text": "free."
+    },
+    {
+      "segment_id": 16,
+      "start_s": 31.65,
+      "end_s": 32.126,
+      "text": "Five."
+    },
+    {
+      "segment_id": 17,
+      "start_s": 33.122,
+      "end_s": 34.238,
+      "text": "You can reach me."
+    },
+    {
+      "segment_id": 18,
+      "start_s": 34.53,
+      "end_s": 34.91,
+      "text": "Up."
+    },
+    {
+      "segment_id": 19,
+      "start_s": 35.074,
+      "end_s": 36.734,
+      "text": "John.smith."
+    },
+    {
+      "segment_id": 20,
+      "start_s": 37.25,
+      "end_s": 38.526,
+      "text": "At Example."
+    },
+    {
+      "segment_id": 21,
+      "start_s": 38.882,
+      "end_s": 39.806,
+      "text": "dot com."
+    },
+    {
+      "segment_id": 22,
+      "start_s": 40.802,
+      "end_s": 42.878,
+      "text": "Also, my phone number is..."
+    },
+    {
+      "segment_id": 23,
+      "start_s": 43.586,
+      "end_s": 44.094,
+      "text": "Five."
+    },
+    {
+      "segment_id": 24,
+      "start_s": 44.354,
+      "end_s": 44.83,
+      "text": "Bye."
+    },
+    {
+      "segment_id": 25,
+      "start_s": 44.962,
+      "end_s": 45.406,
+      "text": "Bye."
+    },
+    {
+      "segment_id": 26,
+      "start_s": 46.018,
+      "end_s": 47.23,
+      "text": "0-1."
+    },
+    {
+      "segment_id": 27,
+      "start_s": 47.586,
+      "end_s": 48.702,
+      "text": "Nine, nine."
+    },
+    {
+      "segment_id": 28,
+      "start_s": 49.762,
+      "end_s": 50.334,
+      "text": "Thank you."
+    }
+  ],
+  "full_text": "Hello. Thank you for calling customer support. My name is Alex. and I will help you today. I am calling about an order. but arrive at Damage. The package was delivered this day. Thank you for watching! I would like a refund. or a replacement as soon as possible. for order number is. A. EX? One. Bye. free. Five. You can reach me. Up. John.smith. At Example. dot com. Also, my phone number is... Five. Bye. Bye. 0-1. Nine, nine. Thank you."
+}
